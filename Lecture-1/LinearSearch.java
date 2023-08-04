@@ -10,7 +10,7 @@ class linearsearch{
             }
         }
         System.out.println("not found");
-    }
+    }4
 
     public static int max(int arr[]){
         int max=0;
