@@ -39,6 +39,7 @@ class linearsearch{
         }
         int key=6;
         sc.close();
+        key.close;
 
 //        linearsearch.ls(arr, key );
 //        System.out.println(max(arr));
