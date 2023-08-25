@@ -23,7 +23,7 @@ public class insertionsort {
         for(int i=0;i<size;i++){
             arr[i] = sc.nextInt();
         }
-
+        sc.close();
 
         insertsort(arr);
         for(int i=0;i<arr.length;i++){
